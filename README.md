@@ -1,5 +1,5 @@
 # Hello, World! 👋
-![Banner 1](https://file%2B.vscode-resource.vscode-cdn.net/Users/dayanosaur_/Desktop/untitled%20folder/banners/banner%201.png?version%3D1727815459673)
+![banner 1](https://github.com/user-attachments/assets/e5e02c70-713a-439d-8065-d6354371c629)
 --
 ### 🙎🏻‍♀️ Profile
 #### Interactive Design | User Experience Major | School for Advanced Digital Technology | Southern Alberta Institute of Technology (2024 - 2026)
