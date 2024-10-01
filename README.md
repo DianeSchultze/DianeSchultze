@@ -6,16 +6,16 @@
 I am an Interactive Design student passionate about creating user-centered solutions that enhance the overall experience. My journey in design began with a fascination for how users interact with technology, and I strive to blend functionality with aesthetic appeal.
 ***
 ### 🛠 Skills
-Design Tools: Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Canva, ProCreate
+**Design Tools:** `Adobe Photoshop` `Adobe Illustrator` `Adobe Lightroom` `Canva` `ProCreate`
 
-Languages: HTML, CSS, JavaScript (basic)
+**Languages:** `HTML` `CSS` `JavaScript (basic)`
 ***
-### 📚 Coursework
-- Introduction to Web Communications
+### 📚 Courses for Fall 2024
+- **CPRG 219** - Introduction to Web Communications
 
-- Introduction to Visual Design
+- **DSGN 228** - Introduction to Visual Design
 
-- Digital Media Foundation
+- **MMDA 202** - Digital Media Foundations
 ***
 ### 💬 Let's Connect
 I'm always open to learning and collaborating with others. Feel free to reach out if you'd like to discuss anything.
