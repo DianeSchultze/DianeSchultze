@@ -18,9 +18,8 @@ I'm always open to learning and collaborating with others. Feel free to reach ou
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-C21807?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DnSchltz)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-C21807?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayanosaaurr)
 [![Email](https://img.shields.io/badge/Email-Me-C21807?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosemariediane.schultze@edu.sait.ca)
-
 ***
-
+</div>
 
 
 
