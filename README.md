@@ -6,7 +6,7 @@ Hi! I'm **Diane** ✦ I'm a web developer based in **Alberta, Canada**.
 
 I like making websites, trying out new things, and spending way too much time making tiny details look just right. When I'm not coding, I'm probably reading manga, watching anime, playing games, or finding something new to work on.
 
-### ✦ LANGUAGES
+### ✦ TOOLS & LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,php,mysql,supabase,git,github,figma,vscode&perline=8" />
 
