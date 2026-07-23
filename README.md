@@ -12,7 +12,7 @@ I like making websites, trying out new things, and spending way too much time ma
 
 ### ✦ FIND ME
 
-[![Email](https://img.shields.io/badge/EMAIL-F7005F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosemariediane.schultze@edu.sait.ca)
+[![Email](https://img.shields.io/badge/EMAIL-F7005F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bydianeschultze@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-F7005F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diane-schultze-863053295)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-F7005F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayanosaaurr)
 
