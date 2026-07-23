@@ -1,25 +1,19 @@
 <div align="center">
   
-![DIANE SCHULTZE(1280 x 220 px)](https://github.com/user-attachments/assets/e81979ab-f648-47d1-9141-3e3294283f16)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&weight=700&size=50&letterSpacing=&duration=3000&pause=500&color=F7005F&background=FF848400&center=true&vCenter=true&width=700&height=100&lines=%CA%95%E2%80%A2%CC%81%E1%B4%A5%E2%80%A2%CC%80%CA%94%E3%81%A3+DIANE+SCHULTZE;WEB+DEVELOPER++%CA%95%E2%80%A2%CC%81%E1%B4%A5%E2%80%A2%CC%80%CA%94%E3%81%A3)](https://git.io/typing-svg)
 
----
+Hi! I'm **Diane** ✦ I'm a web developer based in **Alberta, Canada**.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=4000&pause=920&weight=600&color=C21807&center=true&vCenter=true&width=700&height=55&lines=ʕ•́ᴥ•̀ʔっ♡;+Interactive+Design;+Web+Design+and+Development;+Southern+Alberta+Institute+of+Technology;"/>
+I like making websites, trying out new things, and spending way too much time making tiny details look just right. When I'm not coding, I'm probably reading manga, watching anime, playing games, or finding something new to work on.
 
-I am an Interactive Design student passionate about crafting fun, unique, and bold user-centered solutions that elevate the experience. My journey in design began with a fascination for how users interact with technology, and I strive to merge creativity with functionality in exciting and impactful ways.
+### ✦ LANGUAGES
 
-***
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,mongodb,php,mysql,supabase,git,github,figma,vscode&perline=8" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=1&pause=920&weight=600&color=C21807&center=true&vCenter=true&width=700&height=55&lines=Let's+Connect;"/>
+### ✦ FIND ME
 
-I'm always open to learning and collaborating with others. Feel free to reach out if you'd like to discuss anything.
+[![Email](https://img.shields.io/badge/EMAIL-F7005F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosemariediane.schultze@edu.sait.ca)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F7005F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diane-schultze-863053295)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-F7005F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayanosaaurr)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-C21807?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diane-schultze-863053295)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-C21807?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DnSchltz)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-C21807?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayanosaaurr)
-[![Email](https://img.shields.io/badge/Email-Me-C21807?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosemariediane.schultze@edu.sait.ca)
-***
 </div>
-
-
-
